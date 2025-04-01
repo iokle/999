@@ -1,6 +1,6 @@
-site_name: My New Software
-site_author: 作者名
-site_description: 欢迎访问
+site_name: missav
+site_author: missav
+site_description: MISSav·(中国区)官方网站-入口
 theme:
   name: readthedocs
 nav:
